@@ -1,0 +1,8 @@
+{
+    "versionCode": 5,
+    "forceUpdate": false,
+    "title": "Update Available",
+    "subtitle": "We've made some improvements",
+    "features": "• Faster loading\n• New design\n• Bug fixes",
+    "apkUrl": "https://example.com/app.apk"
+}

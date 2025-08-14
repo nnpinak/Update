@@ -1,7 +1,6 @@
 {
-  "push_update": true,
-  "version": "1.2.3",
+  "version_code": 5,
   "force": false,
-  "app_link": "https://yourserver.com/app-release.apk",
-  "features": "• New UI design\\n• Improved speed\\n• Bug fixes"
+  "app_link": "https://example.com/app/update.apk",
+  "features": "• New dark mode\n• Faster performance\n• Bug fixes"
 }

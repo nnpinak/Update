@@ -1,6 +1,6 @@
 {
   "version_code": 5,
   "force": false,
-  "app_link": "https://example.com/app/update.apk",
+  "app_link": "https://github.com/nnpinak/Application/raw/refs/heads/main/Update%20Tester%205.0.apk",
   "features": "• New dark mode\n• Faster performance\n• Bug fixes"
 }

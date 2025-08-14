@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "force": false,
+  "app_link": "https://example.com/update.apk",
+  "features": "• New dark mode\n• Improved performance\n• Bug fixes"
+}

@@ -1,6 +1,6 @@
 {
   "versionCode": 5,
   "apkUrl": "https://example.com/app.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "message": "A new version is available with exciting features!"
 }
